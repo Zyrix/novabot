@@ -1,3 +1,17 @@
 Manifest-Version: 1.0
-Main-Class: core.MessageListener
+Main-Class: core.NovaBot
+Class-Path: dependencies/google-api-client-1.22.0.jar dependencies/google-api-
+ services-sheets-v4-rev1-1.21.0.jar dependencies/google-core
+ -1.47.1.jar dependencies/google-http-client-1.22.0.jar dependen
+ cigoogle-http-client-jackson-1.22.0 (1).jar dependencies/google-
+ http-client-jackson2-1.22.0.jar dependencies/google-maps-services-0.
+ 1.20.jar dependencies/google-oauth-client-1.20.0.jar dependencies/eson
+ -2.8.0.jar dependencies/guava-21.0.jar dependencies/ini4j-
+ 0.5.4.jar dependencies/jackson-core-2.2.3.jar dependencies/jacks
+ on-core-asl-1.9.0.jar dependencies/JDA-3.3.1_312-withDependencies.j
+ ar dependencies/joda-time-2.9.9.jar dependencies/logback-classic
+ -1.2.3.jar dependencies/logback-core-1.2.3.jar dependencies/mysq
+ l-connector-java-5.1.41-bin.jar dependencies/okhttp-2.7.5.jar dep
+ endenciokio-1.12.0.jar dependencies/slf4j-api-1.7.25.jar depend
+ encislf4j-simple-1.7.25.jar
 
